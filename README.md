@@ -21,6 +21,8 @@ Scrapy is written in pure Python and depends on a few key Python packages (among
 
 ## Virtual Environment Setup
 
+Assumes you are using Anaconda, use pip install otherwise.
+
 ```bash
 # create virtual environment
 
