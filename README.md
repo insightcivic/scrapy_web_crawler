@@ -46,3 +46,11 @@ conda install -c conda-forge scrapy
 
 ```
 
+### Notebook
+
+- There are two versions, one for running Scrapy command line, and the other one to run it inside the Jupyter notebook.
+
+### Reference
+
+[Scrapy Documentation](https://docs.scrapy.org/en/latest/intro/install.html)
+
