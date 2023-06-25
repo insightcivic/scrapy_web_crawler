@@ -3,6 +3,7 @@
 ## What are we doing
 
 Scraping a website using Scrapy.
+[Notebook](https://github.com/insightcivic/scrapy_web_crawler/blob/main/Scrapy.ipynb)
 
 ## About Scrapy
 
