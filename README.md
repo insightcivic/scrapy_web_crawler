@@ -1,4 +1,4 @@
-# scrapy_web_crawler
+# Web crawling with Scrapy
 
 ## What are we doing
 
